@@ -600,18 +600,18 @@ export default function App() {
       
       {/* 1. Header & Navigation Component */}
       <header className="sticky top-0 z-40 w-full glassmorphism transition-all duration-300">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
+        <div className="max-w-7xl mx-auto px-2.5 sm:px-6 lg:px-8 h-20 flex items-center justify-between gap-2 sm:gap-4">
           
           {/* Logo / Branding block */}
-          <div className="flex items-center space-x-3 cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
-            <div className="w-10 h-10 rounded-lg bg-cafe-crimson flex items-center justify-center text-white border-2 border-white shadow-md transform -rotate-3 hover:rotate-0 transition-transform duration-300">
-              <Coffee className="w-5 h-5 text-white" aria-hidden="true" />
+          <div className="flex items-center space-x-2 sm:space-x-3 cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
+            <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-lg bg-cafe-crimson flex items-center justify-center text-white border-2 border-white shadow-md transform -rotate-3 hover:rotate-0 transition-transform duration-300 flex-shrink-0">
+              <Coffee className="w-4 h-4 sm:w-5 sm:h-5 text-white" aria-hidden="true" />
             </div>
             <div>
-              <span className="font-serif text-2xl font-black tracking-tight text-cafe-crimson">
-                {caffeData.brand.name}
+              <span className="font-serif text-lg sm:text-2xl font-black tracking-tight text-cafe-crimson uppercase whitespace-nowrap">
+                GUIDO CAFFÈ
               </span>
-              <span className="block text-[9px] tracking-[0.25em] uppercase text-cafe-olive font-extrabold -mt-1">
+              <span className="block text-[8px] sm:text-[9px] tracking-[0.1em] sm:tracking-[0.25em] uppercase text-cafe-olive font-extrabold -mt-1 whitespace-nowrap">
                 Lausanne • Bar &amp; Cucina
               </span>
             </div>
@@ -743,9 +743,9 @@ export default function App() {
                 <span>{t.heroTagline}</span>
               </div>
 
-              <h1 className="font-serif text-4xl sm:text-5xl lg:text-7xl font-black tracking-tight leading-none text-cafe-dark uppercase">
+              <h1 className="font-serif text-3xl sm:text-5xl lg:text-7xl font-black tracking-tight leading-none text-cafe-dark uppercase">
                 {t.heroTitle} <br />
-                <span className="text-cafe-crimson decoration-cafe-olive underline decoration-wavy underline-offset-8">
+                <span className="text-cafe-crimson decoration-cafe-olive underline decoration-wavy underline-offset-4 sm:underline-offset-8">
                   {t.heroTitleAccent}
                 </span>
               </h1>
@@ -789,7 +789,7 @@ export default function App() {
                 </div>
 
                 {/* Floating Italian Checkered Badge */}
-                <div className="absolute -bottom-6 -left-6 z-20 bg-checkered-light border-2 border-cafe-crimson p-4 rounded shadow-xl max-w-xs flex items-center space-x-3">
+                <div className="absolute -bottom-4 left-4 sm:-bottom-6 sm:-left-6 z-20 bg-checkered-light border-2 border-cafe-crimson p-3 sm:p-4 rounded shadow-xl max-w-xs flex items-center space-x-3 whitespace-nowrap">
                   <div className="p-2 bg-cafe-crimson text-white rounded">
                     <Coffee className="w-5 h-5" aria-hidden="true" />
                   </div>
