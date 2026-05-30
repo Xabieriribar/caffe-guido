@@ -1,0 +1,560 @@
+{
+  "brand": {
+    "name": "GUIDO CAFFÈ | Coffee shop inspired by the Italian Culture",
+    "username": "guidocaffe",
+    "tagline": "Artisanal Espresso & Authentic Italian Culture",
+    "vibeSummary": "𝙉𝙊𝙏 𝙏𝙊𝙊 𝘽𝘼𝘿 🇮🇹\nA Lausanne neighborhood coffee shop\ninspired by the Italian Culture.",
+    "profilePic": "/assets/instagram/owner.jpg"
+  },
+  "hours": {
+    "weekdays": "07:30 - 18:00",
+    "weekends": "07:30 - 17:00"
+  },
+  "location": {
+    "address": "Av. du Chablais 53, 1007 Lausanne, Switzerland",
+    "googleMapsLink": "https://maps.google.com/?q=Av.+du+Chablais+53,+1007+Lausanne,+Switzerland"
+  },
+  "contact": {
+    "phone": "021 356 23 53",
+    "email": "ciao@guidocaffe.com",
+    "instagram": "https://instagram.com/guidocaffe"
+  },
+  "story": {
+    "heading": "La Dolce Vita in the Heart of Lausanne",
+    "paragraphs": [
+      "Guido Caffè was born out of a simple passion: to bring the authentic, slow-roasted coffee culture of Italy to the heart of Lausanne. Every single morning, our espresso machine comes alive to extract the richest crema, setting the rhythm for our community.",
+      "Our kitchen operates on the philosophy of simplicity and quality. We source clean, seasonal ingredients to assemble our signature paninis and bake classic Italian dolci daily. At Guido, you are not just a customer; you are part of our extended family."
+    ]
+  },
+  "menu": {
+    "categories": [
+      "Café / Drinks",
+      "Pâtisseries / Dolci",
+      "Desserts / Dolci",
+      "Boissons / Teas"
+    ],
+    "items": [
+      {
+        "id": "item-sfogliatella",
+        "name": "Sfogliatella",
+        "description": "Classic shell-shaped Neapolitan pastry with crisp, flaky layers of laminated dough, filled with sweet ricotta and candied orange peel.",
+        "price": "CHF 4.80",
+        "category": "Pâtisseries / Dolci",
+        "tags": [
+          "Napoli Classic",
+          "Crispy"
+        ],
+        "imageUrl": "/assets/instagram/post_10.jpg"
+      },
+      {
+        "id": "item-bombolone",
+        "name": "Bombolone Pistacchio",
+        "description": "Sugar-dusted Italian donut filled with a luscious, velvety cream made from authentic Bronte green pistachios.",
+        "price": "CHF 5.20",
+        "category": "Pâtisseries / Dolci",
+        "tags": [
+          "Best Seller",
+          "Pistachio"
+        ],
+        "imageUrl": "/assets/instagram/post_25.jpg"
+      },
+      {
+        "id": "item-tiramisu",
+        "name": "Tiramisu Spéculos",
+        "description": "An artisanal twist on the classic Italian dessert with layers of speculoos biscuits, premium espresso soak, and light mascarpone cream.",
+        "price": "CHF 7.50",
+        "category": "Desserts / Dolci",
+        "tags": [
+          "Signature",
+          "Sweet"
+        ],
+        "imageUrl": "/assets/instagram/post_11.jpg"
+      },
+      {
+        "id": "item-macchiato",
+        "name": "Caramel Macchiato",
+        "description": "Freshly pulled wood-fired espresso layered with velvety steamed milk and a signature crosshatch drizzle of sweet caramel.",
+        "price": "CHF 5.80",
+        "category": "Café / Drinks",
+        "tags": [
+          "Sweet",
+          "Hot / Iced"
+        ],
+        "imageUrl": "/assets/instagram/post_16.jpg"
+      },
+      {
+        "id": "item-mocchaccino",
+        "name": "Mocchaccino",
+        "description": "A rich fusion of our dark chocolate cocoa base and double-shot espresso, topped with silky microfoam and a dusting of pure cocoa.",
+        "price": "CHF 5.50",
+        "category": "Café / Drinks",
+        "tags": [
+          "Chocolate",
+          "Hot"
+        ],
+        "imageUrl": "/assets/instagram/post_13.jpg"
+      },
+      {
+        "id": "item-ginseng",
+        "name": "Caffè Al Ginseng",
+        "description": "An energizing, traditional Italian favorite featuring rich espresso infused with aromatic ginseng root extract for a sweet, earthy finish.",
+        "price": "CHF 4.50",
+        "category": "Café / Drinks",
+        "tags": [
+          "Energizing",
+          "Traditional"
+        ],
+        "imageUrl": "/assets/instagram/post_35.jpg"
+      },
+      {
+        "id": "item-americano",
+        "name": "Americano",
+        "description": "Double shot of our Napoli slow-roasted signature espresso, diluted with hot water to preserve the smooth crema and intense body.",
+        "price": "CHF 4.20",
+        "category": "Café / Drinks",
+        "tags": [
+          "Classic",
+          "Bold"
+        ],
+        "imageUrl": "/assets/instagram/post_22.jpg"
+      },
+      {
+        "id": "item-the",
+        "name": "Thé Chaud Bio",
+        "description": "A curated selection of premium organic herbal and black teas, served in an artisanal infusion pot for the ultimate relaxing brew.",
+        "price": "CHF 4.80",
+        "category": "Boissons / Teas",
+        "tags": [
+          "Organic",
+          "Herbal"
+        ],
+        "imageUrl": "/assets/instagram/post_36.jpg"
+      }
+    ]
+  },
+  "instagramPosts": [
+    {
+      "id": "3659209439541542372",
+      "caption": "Bienvenue chez GUIDO CAFFÈ. 🤌🏼",
+      "imageUrl": "/assets/instagram/storefront.jpg",
+      "timestamp": "2025-06-20T15:03:13.000Z",
+      "likesCount": 459,
+      "commentsCount": 26,
+      "url": "https://www.instagram.com/p/DLIH5kSoT3k/"
+    },
+    {
+      "id": "3902117483041841910",
+      "caption": "Nous recrutons un(e) barista 🤌🏼\n\nEnvoie ton CV à ciao@guidocaffe.com 🇮🇹",
+      "imageUrl": "/assets/instagram/croissant.jpg",
+      "timestamp": "2026-05-21T18:37:54.000Z",
+      "likesCount": 22,
+      "commentsCount": 0,
+      "url": "https://www.instagram.com/p/DYnGy0wjOL2/"
+    },
+    {
+      "id": "3767079958569842139",
+      "caption": "Roasted coffee in Napoli served straight in your cup in Lausanne. 🤌🏼\n\nYou know where to find us.\n\n#coffee #cafè #lausanne #vaud #coffeeshop #espresso",
+      "imageUrl": "/assets/instagram/coffee.jpg",
+      "timestamp": "2025-11-16T11:02:27.000Z",
+      "likesCount": 42,
+      "commentsCount": 0,
+      "url": "https://www.instagram.com/p/DRHW0NzDHXb/"
+    },
+    {
+      "id": "3673736620279858123",
+      "caption": "T’es fan de pistache ? On a pensé à toi chez Guido Caffè. 💚 Cornetto fourré, bombolone bien rempli, et maintenant… on a même un matcha latte version pistache.\n\nTrois raisons de passer chez Guido. Et de revenir.\n\n📍 Av. du Chablais 53, Lausanne\n\n#lausannefood #suisse #café #matcha #pistache #pistacchio",
+      "imageUrl": "/assets/instagram/pastry.jpg",
+      "timestamp": "2025-07-10T16:08:48.000Z",
+      "likesCount": 659,
+      "commentsCount": 35,
+      "url": "https://www.instagram.com/p/DL7u_3qIAPL/"
+    },
+    {
+      "id": "3803960179948269064",
+      "caption": "🚨 Nous recrutons ! 🚨\n\nPour renforcer notre équipe pendant le rush de midi, Guido Caffè recherche une personne motivée pour assister la barista sur notre service cafétéria & focacceria.\n\n📍 Lieu : Avenue du Chablais 53, 1007 Lausanne\n📩 Intéressé(e) ? Envoie-nous ton dossier par e-mail: ciao@guidocaffe.com",
+      "imageUrl": "/assets/instagram/interior.jpg",
+      "timestamp": "2026-01-06T08:16:52.000Z",
+      "likesCount": 62,
+      "commentsCount": 1,
+      "url": "https://www.instagram.com/p/DTKYaEhjC4I/"
+    },
+    {
+      "id": "3858632922211342299",
+      "caption": "I love you very matcha 💚\n\n#matchalovers #dogmom",
+      "imageUrl": "/assets/instagram/aperitivo.jpg",
+      "timestamp": "2026-03-22T18:46:18.000Z",
+      "likesCount": 52,
+      "commentsCount": 2,
+      "url": "https://www.instagram.com/p/DWMnjLnCNfb/"
+    },
+    {
+      "id": "3741664530230177561",
+      "caption": "Sundays are for cornetti 🥐",
+      "imageUrl": "/assets/instagram/panini.jpg",
+      "timestamp": "2025-10-12T09:26:32.000Z",
+      "likesCount": 53,
+      "commentsCount": 3,
+      "url": "https://www.instagram.com/p/DPtEBDpDG8Z/"
+    },
+    {
+      "id": "3611151610286192236",
+      "caption": "Cappuccino ☕️",
+      "imageUrl": "/assets/instagram/barista.jpg",
+      "timestamp": "2025-04-15T07:42:09.000Z",
+      "likesCount": 90,
+      "commentsCount": 3,
+      "url": "https://www.instagram.com/p/DIdY0HBMDZs/"
+    },
+    {
+      "id": "3897619972679833135",
+      "caption": "✨ Nous recrutons! 🤌🏼\n\nNous sommes à la recherche d’un manager afin de s’occuper de la gestion totale du café. Si tu penses être capable et que tu as les capacités n’hésite pas à postuler à ciao@guidocaffe.com 🫶🏼",
+      "imageUrl": "/assets/instagram/details.jpg",
+      "timestamp": "2026-05-15T13:42:09.000Z",
+      "likesCount": 56,
+      "commentsCount": 0,
+      "url": "https://www.instagram.com/p/DYXILb1DJYv/"
+    },
+    {
+      "id": "3692549374262754171",
+      "caption": "CAFFÈ CREMA.🍦 ☕️ \nCrémeux, glacé, caféiné. Comme en Italie, mais à Lausanne.\n\n📍 GUIDO CAFFÈ, Av. du Chablais 53, Lausanne\n🚇 m1 : Malley\n\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse #café #caffè",
+      "imageUrl": "/assets/instagram/people.jpg",
+      "timestamp": "2025-08-05T15:03:43.000Z",
+      "likesCount": 108,
+      "commentsCount": 2,
+      "url": "https://www.instagram.com/p/DM-kheIhbt7/"
+    },
+    {
+      "id": "3704870311754984537",
+      "caption": "The weekend combo you didn’t see coming: Sfogliatella × Crema di caffè. 🤌🏼\n\n📍 GUIDO CAFFÈ, Av. du Chablais 53, Lausanne",
+      "imageUrl": "/assets/instagram/post_10.jpg",
+      "timestamp": "2025-08-22T15:03:04.000Z",
+      "likesCount": 54,
+      "commentsCount": 1,
+      "url": "https://www.instagram.com/p/DNqV-tXC-xZ/"
+    },
+    {
+      "id": "3694723035663997834",
+      "caption": "TIRAMISÙ ARTISANAL. 🍰 Fait ici, à Lausanne. À déguster sur place, à emporter, ou à commander en avance si t’en veux plusieurs (et on sait que t’en revoudras plusieurs).\n\n📍 GUIDO CAFFÈ, Av. du Chablais 53, Lausanne\n🚇 m1 : Malley\n\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse #café #caffè",
+      "imageUrl": "/assets/instagram/post_11.jpg",
+      "timestamp": "2025-08-08T15:02:13.000Z",
+      "likesCount": 4,
+      "commentsCount": 1,
+      "url": "https://www.instagram.com/p/DNGSwaENJuK/"
+    },
+    {
+      "id": "3645257144791084869",
+      "caption": "Morning matchas are always better with a friend 💚\n\n📍 Av. du Chablais 53, Lausanne\nⓂ️ Métro m1 : Malley\n·\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse",
+      "imageUrl": "/assets/instagram/post_12.jpg",
+      "timestamp": "2025-06-01T09:02:18.000Z",
+      "likesCount": 66,
+      "commentsCount": 0,
+      "url": "https://www.instagram.com/p/DKWjg9OOi9F/"
+    },
+    {
+      "id": "3685213806775177502",
+      "caption": "Italian breakfast 🇮🇹 \n\nOnly at Guido Caffè - Avenue du Chablais 53, 1007 Lausanne\n\n#coffee #espresso #caffè #cornetto #pistacchio #pistache #breakfast",
+      "imageUrl": "/assets/instagram/post_13.jpg",
+      "timestamp": "2025-07-26T12:09:01.000Z",
+      "likesCount": 72,
+      "commentsCount": 2,
+      "url": "https://www.instagram.com/p/DMkgm6iMxEe/"
+    },
+    {
+      "id": "3710051700204917854",
+      "caption": "AUTUMN VIBES ARE CALLING 🍂\nOn te prépare de très, très bonnes nouveautés chez Guido Caffè. Un indice se cache dans les hashtags. Stay tuned! 🎃\n\n 📍 GUIDO CAFFÈ, Av. du Chablais 53, Lausanne\n.\n.\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse #café #caffè #matcha #pumpkinspicelatte",
+      "imageUrl": "/assets/instagram/post_14.jpg",
+      "timestamp": "2025-08-29T18:37:29.000Z",
+      "likesCount": 197,
+      "commentsCount": 6,
+      "url": "https://www.instagram.com/p/DN8wF1ZDFRe/"
+    },
+    {
+      "id": "3687505929093625621",
+      "caption": "Il y a les pressés qui prennent leur café au comptoir. Ceux qui s’installent sur notre terrasse au soleil avec un matcha ou un iced latte. Et il y a ceux qui passent en coup de vent pour une commande à emporter.\n\nTu fais peut-être un peu tout ça à la fois. Alors on a pensé à toi : au Guido, après 10 boissons, la suivante est pour nous.\n\n📍 GUIDO CAFFÈ, Av. du Chablais 53, Lausanne\n🚇 m1 : Malley\n\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse #café #caffè",
+      "imageUrl": "/assets/instagram/post_15.jpg",
+      "timestamp": "2025-07-29T16:03:06.000Z",
+      "likesCount": 105,
+      "commentsCount": 3,
+      "url": "https://www.instagram.com/p/DMspxryxbcV/"
+    },
+    {
+      "id": "3680906098650482454",
+      "caption": "La Dolce Vita @guidocaffe 🇮🇹 \nHeaven for all Pistacchio 💚and Freddo coffee lovers ❤️ We tried the Pistacchio Matcha Latte and Affogato Mix...",
+      "imageUrl": "/assets/instagram/post_16.jpg",
+      "timestamp": "2025-07-20T13:41:50.000Z",
+      "likesCount": 85,
+      "commentsCount": 7,
+      "url": "https://www.instagram.com/p/DMVNJgtoYcW/"
+    },
+    {
+      "id": "3690374771489522916",
+      "caption": "Notre collection Iced Matcha est enfin disponible ! Tu préfères un matcha classique ou un peu plus sophistiqué ?\n\n🍵 Matcha classique\n🍦 Matcha vanille\n🥭 Matcha mangue\n💚 Matcha pistache\n🍓 Matcha fraise\n\nTry our different matcha flavors at Guido Caffè.\n\n#Lausanne #mylausanne #lausannefood #vaud #myvaud #suisse #matchalovers #icedmatcha #matcha",
+      "imageUrl": "/assets/instagram/post_17.jpg",
+      "timestamp": "2025-08-02T15:03:25.000Z",
+      "likesCount": 115,
+      "commentsCount": 7,
+      "url": "https://www.instagram.com/p/DM22E1eskTk/"
+    },
+    {
+      "id": "3714323255230903619",
+      "caption": "La famiglia è tout. 🤌🏼",
+      "imageUrl": "/assets/instagram/post_18.jpg",
+      "timestamp": "2025-09-04T16:04:22.000Z",
+      "likesCount": 169,
+      "commentsCount": 8,
+      "url": "https://www.instagram.com/p/DOL7VJBArVD/"
+    },
+    {
+      "id": "3777475219976629094",
+      "caption": "November dump ☕️ 🍂 🤌🏼\n\nWinter’s menu available from 1st of December",
+      "imageUrl": "/assets/instagram/post_19.jpg",
+      "timestamp": "2025-11-30T19:15:58.000Z",
+      "likesCount": 166,
+      "commentsCount": 9,
+      "url": "https://www.instagram.com/p/DRsSbLajCtm/"
+    },
+    {
+      "id": "3753334608377996123",
+      "caption": "October dump 🎃 🤌🏼",
+      "imageUrl": "/assets/instagram/post_20.jpg",
+      "timestamp": "2025-10-28T11:52:53.000Z",
+      "likesCount": 182,
+      "commentsCount": 14,
+      "url": "https://www.instagram.com/p/DQWhfC3jONb/"
+    },
+    {
+      "id": "3667281944684749980",
+      "caption": "AFFOGATO REMIX. ONLY IN LAUSANNE. ONLY AT GUIDO CAFFÈ.",
+      "imageUrl": "/assets/instagram/post_21.jpg",
+      "timestamp": "2025-07-01T18:22:09.000Z",
+      "likesCount": 168,
+      "commentsCount": 15,
+      "url": "https://www.instagram.com/p/DLkzX-kI2Sc/"
+    },
+    {
+      "id": "3657790578665995534",
+      "caption": "Un seul remède contre la chaleur, notre FREDDO CUBANO. Lausanne's best iced latte. 🌞\n\n📍 Av. du Chablais 53, Lausanne\n\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse #café",
+      "imageUrl": "/assets/instagram/post_22.jpg",
+      "timestamp": "2025-06-18T16:04:11.000Z",
+      "likesCount": 58,
+      "commentsCount": 0,
+      "url": "https://www.instagram.com/p/DLDFSbIKD0O/"
+    },
+    {
+      "id": "3678776649763149089",
+      "caption": "Your authentic neighborhood caffè in Lausanne.\n\n📍 GUIDO CAFFÈ, Av. du Chablais 53, Lausanne\n\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse #café #caffè",
+      "imageUrl": "/assets/instagram/post_23.jpg",
+      "timestamp": "2025-07-17T15:01:10.000Z",
+      "likesCount": 2,
+      "commentsCount": 0,
+      "url": "https://www.instagram.com/p/DMNo985IlUh/"
+    },
+    {
+      "id": "3719154838165559131",
+      "caption": "Every day, the same ritual. An espresso with Naples in its heart, and Lausanne on its counter. 🫶\n\n📍 GUIDO CAFFÈ, Av. du Chablais 53, Lausanne\n\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse #café #caffè #espresso",
+      "imageUrl": "/assets/instagram/post_24.jpg",
+      "timestamp": "2025-09-11T08:04:00.000Z",
+      "likesCount": 62,
+      "commentsCount": 4,
+      "url": "https://www.instagram.com/p/DOdF57RiJdb/"
+    },
+    {
+      "id": "3651117584547479002",
+      "caption": "On t’a vu hésiter. Mais on sait déjà que tu prendras le bombolone pistacchio. 😉\n\n📍 Av. du Chablais 53, Lausanne\nⓂ️ Métro m1 : Malley\n\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse",
+      "imageUrl": "/assets/instagram/post_25.jpg",
+      "timestamp": "2025-06-09T11:05:55.000Z",
+      "likesCount": 72,
+      "commentsCount": 0,
+      "url": "https://www.instagram.com/p/DKrYBlEIn3a/"
+    },
+    {
+      "id": "3643022626910510308",
+      "caption": "Come for the caffè, stay for the vibes.\n\n📍 Av. du Chablais 53, Lausanne\n\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse",
+      "imageUrl": "/assets/instagram/post_26.jpg",
+      "timestamp": "2025-05-29T07:02:48.000Z",
+      "likesCount": 73,
+      "commentsCount": 0,
+      "url": "https://www.instagram.com/p/DKOnccRthzk/"
+    },
+    {
+      "id": "3649586346296624188",
+      "caption": "BREAKFAST OF CHAMPIONS. Croissant fourré Kinder Bueno.\n\n📍 Av. du Chablais 53, Lausanne\n\nTu valides ?",
+      "imageUrl": "/assets/instagram/post_27.jpg",
+      "timestamp": "2025-06-07T08:23:37.000Z",
+      "likesCount": 69,
+      "commentsCount": 2,
+      "url": "https://www.instagram.com/p/DKl73IUIEQ8/"
+    },
+    {
+      "id": "3648156165666999522",
+      "caption": "Adopt the Italian culture. 🤌\n\n📍 Av. du Chablais 53, Lausanne\n\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse",
+      "imageUrl": "/assets/instagram/post_28.jpg",
+      "timestamp": "2025-06-05T09:02:21.000Z",
+      "likesCount": 56,
+      "commentsCount": 0,
+      "url": "https://www.instagram.com/p/DKg2rQzu4zi/"
+    },
+    {
+      "id": "3654153048028154554",
+      "caption": "Old school caffè. New school attitude.\n\n📍 Av. du Chablais 53, Lausanne\n\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse #café",
+      "imageUrl": "/assets/instagram/post_29.jpg",
+      "timestamp": "2025-06-13T15:36:50.000Z",
+      "likesCount": 104,
+      "commentsCount": 1,
+      "url": "https://www.instagram.com/p/DK2KNYuoQq6/"
+    },
+    {
+      "id": "3646706599103751423",
+      "caption": "VENI, VIDI, VICI.",
+      "imageUrl": "/assets/instagram/post_30.jpg",
+      "timestamp": "2025-06-03T09:02:19.000Z",
+      "likesCount": 69,
+      "commentsCount": 4,
+      "url": "https://www.instagram.com/p/DKbtFSvpuT_/"
+    },
+    {
+      "id": "3660486884753211037",
+      "caption": "ITALIAN MORNING COFFEE PARTY 🤌\n\nThank you all for making this event so cool ❤️\n\nAmazing set by @maoramusic",
+      "imageUrl": "/assets/instagram/post_31.jpg",
+      "timestamp": "2025-06-22T09:21:30.000Z",
+      "likesCount": 154,
+      "commentsCount": 8,
+      "url": "https://www.instagram.com/p/DLMqW12sP6d/"
+    },
+    {
+      "id": "3669414080668153419",
+      "caption": "A SUMMER WEEKEND AT GUIDO CAFFÈ. 🌞\n\n📍 Av. du Chablais 53, Lausanne\n\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse #café",
+      "imageUrl": "/assets/instagram/post_32.jpg",
+      "timestamp": "2025-07-04T16:57:47.000Z",
+      "likesCount": 106,
+      "commentsCount": 8,
+      "url": "https://www.instagram.com/p/DLsYKo8CrZL/"
+    },
+    {
+      "id": "3679568123761074633",
+      "caption": "Le café que tu attendais à Lausanne ! Inspired by the Italian culture.\n\n📍 GUIDO CAFFÈ, Av. du Chablais 53, Lausanne\n\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse #café #caffè",
+      "imageUrl": "/assets/instagram/post_33.jpg",
+      "timestamp": "2025-07-18T17:14:14.000Z",
+      "likesCount": 156,
+      "commentsCount": 8,
+      "url": "https://www.instagram.com/p/DMQc7afoSHJ/"
+    },
+    {
+      "id": "3680257989378492097",
+      "caption": "DOMENICA ITALIANA. 🇮🇹\nCafé serré, affogato, cannolo ou sfogliatella.\n\n📍 GUIDO CAFFÈ, Av. du Chablais 53, Lausanne\n\n#lausanne #mylausanne #vaud #myvaud #lausannefood #suisse #café #caffè",
+      "imageUrl": "/assets/instagram/post_34.jpg",
+      "timestamp": "2025-07-19T16:02:46.000Z",
+      "likesCount": 71,
+      "commentsCount": 0,
+      "url": "https://www.instagram.com/p/DMS5yR6ssbB/"
+    },
+    {
+      "id": "3543826391897412996",
+      "caption": "No better day than Sunday for espressos lovers ☕️",
+      "imageUrl": "/assets/instagram/post_35.jpg",
+      "timestamp": "2025-01-12T10:17:28.000Z",
+      "likesCount": 74,
+      "commentsCount": 1,
+      "url": "https://www.instagram.com/p/DEuM1PSsxWE/"
+    },
+    {
+      "id": "3788253846372641524",
+      "caption": "Samedi, nous avons partagé un Brunch, Pilates & Wellness Talk...\n\nMerci à @flavours_lausanne pour le brunch et à @guidocaffe pour les matchas d’exception 🍵🥐",
+      "imageUrl": "/assets/instagram/post_36.jpg",
+      "timestamp": "2025-12-15T16:11:11.000Z",
+      "likesCount": 103,
+      "commentsCount": 5,
+      "url": "https://www.instagram.com/p/DSSlM1gDGr0/"
+    },
+    {
+      "id": "3547463472024572496",
+      "caption": "ITALIAN CULTURE 🤌🏼",
+      "imageUrl": "/assets/instagram/post_37.jpg",
+      "timestamp": "2025-01-17T10:43:41.000Z",
+      "likesCount": 93,
+      "commentsCount": 1,
+      "url": "https://www.instagram.com/p/DE7HzuHstJQ/"
+    },
+    {
+      "id": "3417927553983434946",
+      "caption": "Are you ready to adopt the Italian Culture ? 🤌🏼",
+      "imageUrl": "/assets/instagram/post_38.jpg",
+      "timestamp": "2024-07-22T17:19:12.000Z",
+      "likesCount": 267,
+      "commentsCount": 66,
+      "url": "https://www.instagram.com/p/C9u6wBbM9DC/"
+    },
+    {
+      "id": "3598383427859199494",
+      "caption": "Chez Guido Caffè, chaque moment devient une scène de film. ✨\nInspirés par l’univers de Ghibli, nous avons transformé des instants du quotidien...",
+      "imageUrl": "/assets/instagram/post_39.jpg",
+      "timestamp": "2025-03-28T16:52:33.000Z",
+      "likesCount": 222,
+      "commentsCount": 24,
+      "url": "https://www.instagram.com/p/DHwBqmfMzYG/"
+    },
+    {
+      "id": "3571544726277701318",
+      "caption": "They left their country in misery to give a better education to future generations...\n\nBe proud of who you are 🤌🏼",
+      "imageUrl": "/assets/instagram/post_40.jpg",
+      "timestamp": "2025-02-19T16:08:51.000Z",
+      "likesCount": 71,
+      "commentsCount": 1,
+      "url": "https://www.instagram.com/p/DGQrQF1M77G/"
+    },
+    {
+      "id": "3587463788333392749",
+      "caption": "Cornetti ischitani alla Crema, Nutella o Pistacchio 🇮🇹",
+      "imageUrl": "/assets/instagram/post_41.jpg",
+      "timestamp": "2025-03-13T15:17:11.000Z",
+      "likesCount": 65,
+      "commentsCount": 1,
+      "url": "https://www.instagram.com/p/DHJO07sMGNt/"
+    },
+    {
+      "id": "3599792536517078461",
+      "caption": "From New Jersey to Lausanne 🤌🏼",
+      "imageUrl": "/assets/instagram/post_42.jpg",
+      "timestamp": "2025-03-30T15:32:12.000Z",
+      "likesCount": 120,
+      "commentsCount": 3,
+      "url": "https://www.instagram.com/p/DH1CD1MM-29/"
+    },
+    {
+      "id": "3545174041997549940",
+      "caption": "Buongiorno ☕️",
+      "imageUrl": "/assets/instagram/post_43.jpg",
+      "timestamp": "2025-01-14T06:55:00.000Z",
+      "likesCount": 140,
+      "commentsCount": 12,
+      "url": "https://www.instagram.com/p/DEy_QIQMyF0/"
+    },
+    {
+      "id": "3577909329832125880",
+      "caption": "FREDDO CUBANO FOR YOU DARLING 🤌🏼\n\nEnjoy the sunny days with our homemade Freddo Cubano 🤤",
+      "imageUrl": "/assets/instagram/post_44.jpg",
+      "timestamp": "2025-02-28T10:56:25.000Z",
+      "likesCount": 91,
+      "commentsCount": 1,
+      "url": "https://www.instagram.com/p/DGnSZQzMyW4/"
+    },
+    {
+      "id": "3635217019314612377",
+      "caption": "Sunday is for caffè.",
+      "imageUrl": "/assets/instagram/post_45.jpg",
+      "timestamp": "2025-05-18T12:34:19.000Z",
+      "likesCount": 82,
+      "commentsCount": 1,
+      "url": "https://www.instagram.com/p/DJy4p5ts6iZ/"
+    },
+    {
+      "id": "3805678964665634524",
+      "caption": "Et oui c'est le propriétaire du @guidocaffe !!!!☕️😁",
+      "imageUrl": "/assets/instagram/post_46.jpg",
+      "timestamp": "2026-01-08T17:14:16.000Z",
+      "likesCount": 155,
+      "commentsCount": 19,
+      "url": "https://www.instagram.com/p/DTQfNriEk7c/"
+    }
+  ]
+}
